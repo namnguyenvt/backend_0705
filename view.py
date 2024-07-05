@@ -3,3 +3,4 @@ def sum(a, b):
 
 a = "nam hoc"
 c = "muon nghi hoc"
+b = "asdasdasd"
